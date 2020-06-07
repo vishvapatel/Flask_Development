@@ -9,6 +9,7 @@
     <li>HTML 5</li>
     <li>CSS 3</li>
     <li>Bootstrap 4.0 CDN</li>
-    <li>Django framwork</li>
+    <li>JQuery</li>
+    <li>Flask framwork</li>
    </ol>
 </p>
