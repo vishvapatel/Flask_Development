@@ -10,4 +10,10 @@
 <p style="text-align:justify; font-family:poppins">
   The name is <strong>Blood Bank</strong> because the webapp maintains and tracks your donors. You have to register and pass in the mandatory detailsand can retrieve it anytime youwnat from anywhere.
 </p>
+<hr> <hr>
+<h3> Retail Bank App</h3>
+<h5>It is app designed to manage customers and accounts better for a bank and to offer better services.</h5>
+<p style="text-align:justify; font-family:poppins">
+  The name is <strong>Fed Choice Bank</strong>. An app designed for bank employees for better functioning and maintaining the records of all its customers and accounts and as a result provide better services. It has features to create customer, delete customer, create account, delete account, perform transactions and is build with Flask's werkzeug security.
+</p>
 
